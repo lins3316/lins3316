@@ -1,9 +1,10 @@
-This was a project where I was trying to resolve a puzzle. Have fun!
 # A Mystery in Fiftyville
 
 <!--
 
-The CS50 Duck has been stolen! The town of Fiftyville has called upon you to solve the mystery of the stolen duck. Authorities believe that the thief stole the duck and then, shortly afterwards, took a flight out of town with the help of an accomplice. Your goal is to identify:
+This was a project where I was trying to resolve a puzzle. Have fun!
+
+A duck has been stolen! The town of Fiftyville has called upon you to solve the mystery of the stolen duck. Authorities believe that the thief stole the duck and then, shortly afterwards, took a flight out of town with the help of an accomplice. Your goal is to identify:
 
 Who the thief is,
 What city the thief escaped to, and
